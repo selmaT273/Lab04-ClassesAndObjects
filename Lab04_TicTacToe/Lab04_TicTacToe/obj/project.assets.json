@@ -689,24 +689,31 @@
     ]
   },
   "packageFolders": {
-    "/Users/staceyteltser/.nuget/packages/": {}
+    "C:\\Users\\mcb4r\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/staceyteltser/Desktop/deltav401/Lab04-ClassesAndObjects/Lab04_TicTacToe/Lab04_TicTacToe/Lab04_TicTacToe.csproj",
+      "projectUniqueName": "C:\\Users\\mcb4r\\OneDrive\\Desktop\\github\\code-401\\Lab04-ClassesAndObjects\\Lab04_TicTacToe\\Lab04_TicTacToe\\Lab04_TicTacToe.csproj",
       "projectName": "Lab04_TicTacToe",
-      "projectPath": "/Users/staceyteltser/Desktop/deltav401/Lab04-ClassesAndObjects/Lab04_TicTacToe/Lab04_TicTacToe/Lab04_TicTacToe.csproj",
-      "packagesPath": "/Users/staceyteltser/.nuget/packages/",
-      "outputPath": "/Users/staceyteltser/Desktop/deltav401/Lab04-ClassesAndObjects/Lab04_TicTacToe/Lab04_TicTacToe/obj/",
+      "projectPath": "C:\\Users\\mcb4r\\OneDrive\\Desktop\\github\\code-401\\Lab04-ClassesAndObjects\\Lab04_TicTacToe\\Lab04_TicTacToe\\Lab04_TicTacToe.csproj",
+      "packagesPath": "C:\\Users\\mcb4r\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mcb4r\\OneDrive\\Desktop\\github\\code-401\\Lab04-ClassesAndObjects\\Lab04_TicTacToe\\Lab04_TicTacToe\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/staceyteltser/.config/NuGet/NuGet.Config"
+        "C:\\Users\\mcb4r\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -740,7 +747,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

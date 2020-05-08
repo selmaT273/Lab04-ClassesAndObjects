@@ -3,7 +3,7 @@ using Xunit;
 
 namespace Lab04_TicTacToe.Classes
 {
-    public class UnitTest1
+    public class TicTacToeTests
     {
         
         [Fact]
@@ -23,6 +23,27 @@ namespace Lab04_TicTacToe.Classes
             // Assert
             Assert.True(winnerExists);
             
+        }
+
+
+        [Fact]
+        public void Can_switch_player()
+        {
+            // Arrange
+            Player player1 = new Player();
+            Player player2 = new Player();
+
+            Game game = new Game(player1, player2);
+            
+
+
+
+            // Act
+            Player canSwitch = game.NextPlayer();
+
+            // Assert
+            Assert.Equal(player1, canSwitch);
+
         }
     }
 }

@@ -10,3 +10,15 @@
 /Users/staceyteltser/Desktop/deltav401/Lab04-ClassesAndObjects/Lab04_TicTacToe/Lab04_TicTacToe/obj/Debug/netcoreapp2.1/Lab04_TicTacToe.dll
 /Users/staceyteltser/Desktop/deltav401/Lab04-ClassesAndObjects/Lab04_TicTacToe/Lab04_TicTacToe/obj/Debug/netcoreapp2.1/Lab04_TicTacToe.pdb
 /Users/staceyteltser/Desktop/deltav401/Lab04-ClassesAndObjects/Lab04_TicTacToe/Lab04_TicTacToe/obj/Debug/netcoreapp2.1/Lab04_TicTacToe.genruntimeconfig.cache
+C:\Users\mcb4r\OneDrive\Desktop\github\code-401\Lab04-ClassesAndObjects\Lab04_TicTacToe\Lab04_TicTacToe\bin\Debug\netcoreapp2.1\Lab04_TicTacToe.deps.json
+C:\Users\mcb4r\OneDrive\Desktop\github\code-401\Lab04-ClassesAndObjects\Lab04_TicTacToe\Lab04_TicTacToe\bin\Debug\netcoreapp2.1\Lab04_TicTacToe.runtimeconfig.json
+C:\Users\mcb4r\OneDrive\Desktop\github\code-401\Lab04-ClassesAndObjects\Lab04_TicTacToe\Lab04_TicTacToe\bin\Debug\netcoreapp2.1\Lab04_TicTacToe.runtimeconfig.dev.json
+C:\Users\mcb4r\OneDrive\Desktop\github\code-401\Lab04-ClassesAndObjects\Lab04_TicTacToe\Lab04_TicTacToe\bin\Debug\netcoreapp2.1\Lab04_TicTacToe.dll
+C:\Users\mcb4r\OneDrive\Desktop\github\code-401\Lab04-ClassesAndObjects\Lab04_TicTacToe\Lab04_TicTacToe\bin\Debug\netcoreapp2.1\Lab04_TicTacToe.pdb
+C:\Users\mcb4r\OneDrive\Desktop\github\code-401\Lab04-ClassesAndObjects\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\netcoreapp2.1\Lab04_TicTacToe.csprojAssemblyReference.cache
+C:\Users\mcb4r\OneDrive\Desktop\github\code-401\Lab04-ClassesAndObjects\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\netcoreapp2.1\Lab04_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\mcb4r\OneDrive\Desktop\github\code-401\Lab04-ClassesAndObjects\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\netcoreapp2.1\Lab04_TicTacToe.AssemblyInfoInputs.cache
+C:\Users\mcb4r\OneDrive\Desktop\github\code-401\Lab04-ClassesAndObjects\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\netcoreapp2.1\Lab04_TicTacToe.AssemblyInfo.cs
+C:\Users\mcb4r\OneDrive\Desktop\github\code-401\Lab04-ClassesAndObjects\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\netcoreapp2.1\Lab04_TicTacToe.dll
+C:\Users\mcb4r\OneDrive\Desktop\github\code-401\Lab04-ClassesAndObjects\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\netcoreapp2.1\Lab04_TicTacToe.pdb
+C:\Users\mcb4r\OneDrive\Desktop\github\code-401\Lab04-ClassesAndObjects\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\netcoreapp2.1\Lab04_TicTacToe.genruntimeconfig.cache
