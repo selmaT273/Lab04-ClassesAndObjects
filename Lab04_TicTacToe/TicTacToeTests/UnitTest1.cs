@@ -38,12 +38,29 @@ namespace Lab04_TicTacToe.Classes
 
 
             // Act
-            Player canSwitch = game.NextPlayer();
-            Player canSwitchBack = game.NextPlayer();
+            // Round 1
+            Player canSwitch1 = game.NextPlayer();
+            game.SwitchPlayer();
+            Player canSwitchAgain1 = game.NextPlayer();
+            game.SwitchPlayer();
+            // Round 2
+            Player canSwitch2 = game.NextPlayer();
+            game.SwitchPlayer();
+            Player canSwitchAgain2 = game.NextPlayer();
+            game.SwitchPlayer();
+            // Round 3
+            Player canSwitch3 = game.NextPlayer();
+            game.SwitchPlayer();
+            Player canSwitchAgain3 = game.NextPlayer();
+            game.SwitchPlayer();
 
             // Assert
-            Assert.Equal(player2, canSwitch);
-            Assert.Equal(player2, canSwitchBack);
+            Assert.Equal(player2, canSwitch1);
+            Assert.Equal(player1, canSwitchAgain1);
+            Assert.Equal(player2, canSwitch2);
+            Assert.Equal(player1, canSwitchAgain2);
+            Assert.Equal(player2, canSwitch3);
+            Assert.Equal(player1, canSwitchAgain3);
 
         }
 
@@ -57,7 +74,6 @@ namespace Lab04_TicTacToe.Classes
         [InlineData(7, 2, 0)]
         [InlineData(8, 2, 1)]
         [InlineData(9, 2, 2)]
-
         public void Player_input_matches_index(int value, int expectedRow, int expectedCol)
         {
             // Arrange
